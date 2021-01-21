@@ -26,3 +26,6 @@
 - 编辑文档  http://127.0.0.1:8000/redoc 
 
 - 使用 .vscode launch.json 配置
+
+## day2 
+ - 用户新增查询restful接口
