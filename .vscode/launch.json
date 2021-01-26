@@ -5,7 +5,7 @@
             "name": "Launch app",
             "type": "python",
             "request":"launch",
-            "program":"main.py"
+            "program":"app/main.py"
 
         }
     ]

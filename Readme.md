@@ -29,3 +29,9 @@
 
 ## day2 
  - 用户新增查询restful接口
+ - api文档分类配置  通过 FastAPI docs_url 参数
+
+
+## day3
+ - pip env 
+ - docker集成 
